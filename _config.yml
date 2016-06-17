@@ -1,0 +1,28 @@
+name: Digital Marketing Gate
+favicon: null
+layout_spectrum: 0.7672386367339641
+typography_spectrum: 0.3778658446390182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9077745925169438
+  lightness: 0.02793572680093348
+  saturation: 0.7119619317818433
+  rhythmicContrast: 0.6435724387411028
+purpose: []
